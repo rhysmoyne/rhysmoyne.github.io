@@ -8,6 +8,8 @@ layout: default
   <div class="adventure-item">
     [![Link to Adventure](image-link-1.jpg)](link-to-adventure-1)
     <p class="adventure-title">Exchange, Linköping, August 2008-June 2009</p>
+    [link](https://www.example.com/my%20great%20page)
+
   </div>
 
   <div class="adventure-item">
